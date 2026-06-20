@@ -1,6 +1,7 @@
 # Alexey Evdokimov
 
-> Human-centric AI Architect with a background in Research (PhD), Software Product Management, and Education. Making work better.
+> Human-centric AI Architect with a background in Research (PhD), Software Product Management, and Education. 
+> Transforming complex workflows into seamless AI-assisted experiences—driving growth for business and flow for people.
 
 ---
 
